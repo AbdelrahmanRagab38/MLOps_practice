@@ -1,0 +1,13 @@
+digest: 571e7e80
+name: dataset
+profile: '{"num_rows": 6483, "num_elements": 90762}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "bedrooms"}, {"type": "double",
+  "name": "sqft_living"}, {"type": "double", "name": "sqft_lot"}, {"type": "double",
+  "name": "floors"}, {"type": "double", "name": "waterfront"}, {"type": "double",
+  "name": "view"}, {"type": "double", "name": "condition"}, {"type": "double", "name":
+  "grade"}, {"type": "double", "name": "sqft_basement"}, {"type": "double", "name":
+  "lat"}, {"type": "double", "name": "long"}, {"type": "double", "name": "sqft_lot15"},
+  {"type": "double", "name": "age"}, {"type": "double", "name": "renovation_age"}]}'
+source: '{"tags": {"mlflow.user": "L14", "mlflow.source.name": "C:\\Users\\L14\\anaconda3\\lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

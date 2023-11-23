@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/L14/Desktop/mlflow/TrackingExperimentRuns/mlruns/352362412866543573/8333a8a4739345c8aed7f36b180e6f26/artifacts
+deleted_time: 1700726841899
+end_time: 1700726732534
+entry_point_name: ''
+experiment_id: '352362412866543573'
+lifecycle_stage: deleted
+run_id: 8333a8a4739345c8aed7f36b180e6f26
+run_name: eda_plots_and_features_as_artifacts
+run_uuid: 8333a8a4739345c8aed7f36b180e6f26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700726731023
+status: 3
+tags: []
+user_id: L14

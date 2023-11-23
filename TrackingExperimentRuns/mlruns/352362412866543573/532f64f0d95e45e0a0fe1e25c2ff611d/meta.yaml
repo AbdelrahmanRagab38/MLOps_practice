@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/L14/Desktop/mlflow/TrackingExperimentRuns/mlruns/352362412866543573/532f64f0d95e45e0a0fe1e25c2ff611d/artifacts
+end_time: 1700726720889
+entry_point_name: ''
+experiment_id: '352362412866543573'
+lifecycle_stage: active
+run_id: 532f64f0d95e45e0a0fe1e25c2ff611d
+run_name: exploratory_data_analysis
+run_uuid: 532f64f0d95e45e0a0fe1e25c2ff611d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700726719310
+status: 3
+tags: []
+user_id: L14

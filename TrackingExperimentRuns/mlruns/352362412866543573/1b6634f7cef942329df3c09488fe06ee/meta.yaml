@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/L14/Desktop/mlflow/TrackingExperimentRuns/mlruns/352362412866543573/1b6634f7cef942329df3c09488fe06ee/artifacts
+end_time: 1700726754784
+entry_point_name: ''
+experiment_id: '352362412866543573'
+lifecycle_stage: active
+run_id: 1b6634f7cef942329df3c09488fe06ee
+run_name: Simple Linear Regression
+run_uuid: 1b6634f7cef942329df3c09488fe06ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700726754607
+status: 3
+tags: []
+user_id: L14

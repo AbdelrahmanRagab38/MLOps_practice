@@ -1,0 +1,4 @@
+'bedrooms', 'sqft_living', 'sqft_lot', 'floors', 
+              'waterfront', 'view', 'condition', 'grade', 
+              'sqft_basement', 'lat', 'long', 'sqft_lot15', 
+              'age', 'renovation_age'

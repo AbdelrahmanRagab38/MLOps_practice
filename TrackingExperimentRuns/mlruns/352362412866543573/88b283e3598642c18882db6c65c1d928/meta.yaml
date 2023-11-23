@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/L14/Desktop/mlflow/TrackingExperimentRuns/mlruns/352362412866543573/88b283e3598642c18882db6c65c1d928/artifacts
+end_time: 1700726764923
+entry_point_name: ''
+experiment_id: '352362412866543573'
+lifecycle_stage: active
+run_id: 88b283e3598642c18882db6c65c1d928
+run_name: Polynomial Regression
+run_uuid: 88b283e3598642c18882db6c65c1d928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700726764525
+status: 3
+tags: []
+user_id: L14

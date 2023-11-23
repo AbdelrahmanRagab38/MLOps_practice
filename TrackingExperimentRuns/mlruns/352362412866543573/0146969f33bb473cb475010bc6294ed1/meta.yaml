@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/L14/Desktop/mlflow/TrackingExperimentRuns/mlruns/352362412866543573/0146969f33bb473cb475010bc6294ed1/artifacts
+end_time: 1700726898234
+entry_point_name: ''
+experiment_id: '352362412866543573'
+lifecycle_stage: active
+run_id: 0146969f33bb473cb475010bc6294ed1
+run_name: Random Forest Regression tuned params autologged
+run_uuid: 0146969f33bb473cb475010bc6294ed1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700726844114
+status: 3
+tags: []
+user_id: L14

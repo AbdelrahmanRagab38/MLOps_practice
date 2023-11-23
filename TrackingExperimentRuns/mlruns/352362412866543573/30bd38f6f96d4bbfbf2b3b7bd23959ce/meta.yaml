@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/L14/Desktop/mlflow/TrackingExperimentRuns/mlruns/352362412866543573/30bd38f6f96d4bbfbf2b3b7bd23959ce/artifacts
+end_time: 1700726717144
+entry_point_name: ''
+experiment_id: '352362412866543573'
+lifecycle_stage: active
+run_id: 30bd38f6f96d4bbfbf2b3b7bd23959ce
+run_name: resilient-perch-150
+run_uuid: 30bd38f6f96d4bbfbf2b3b7bd23959ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700726627239
+status: 3
+tags: []
+user_id: L14

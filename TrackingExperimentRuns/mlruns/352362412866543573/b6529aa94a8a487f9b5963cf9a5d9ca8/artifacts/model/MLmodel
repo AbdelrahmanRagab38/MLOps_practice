@@ -1,0 +1,30 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.1
+mlflow_version: 2.8.1
+model_size_bytes: 11727489
+model_uuid: 4b8e20203fcf4b819dc4d59f7ff18f7f
+run_id: b6529aa94a8a487f9b5963cf9a5d9ca8
+signature:
+  inputs: '[{"type": "double", "name": "bedrooms"}, {"type": "double", "name": "sqft_living"},
+    {"type": "double", "name": "sqft_lot"}, {"type": "double", "name": "floors"},
+    {"type": "double", "name": "waterfront"}, {"type": "double", "name": "view"},
+    {"type": "double", "name": "condition"}, {"type": "double", "name": "grade"},
+    {"type": "double", "name": "sqft_basement"}, {"type": "double", "name": "lat"},
+    {"type": "double", "name": "long"}, {"type": "double", "name": "sqft_lot15"},
+    {"type": "double", "name": "age"}, {"type": "double", "name": "renovation_age"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2023-11-23 08:08:57.602315'

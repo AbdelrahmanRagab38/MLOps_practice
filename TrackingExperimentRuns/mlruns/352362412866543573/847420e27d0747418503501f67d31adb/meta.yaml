@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/L14/Desktop/mlflow/TrackingExperimentRuns/mlruns/352362412866543573/847420e27d0747418503501f67d31adb/artifacts
+end_time: 1700726726492
+entry_point_name: ''
+experiment_id: '352362412866543573'
+lifecycle_stage: active
+run_id: 847420e27d0747418503501f67d31adb
+run_name: features_as_artifacts
+run_uuid: 847420e27d0747418503501f67d31adb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700726723906
+status: 3
+tags: []
+user_id: L14
